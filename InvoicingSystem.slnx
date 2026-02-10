@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InvoicingSystem.Test/InvoicingSystem.Test.csproj" Id="6f410d86-09bc-424e-a138-15eee5fef43c" />
+  <Project Path="InvoicingSystem/InvoicingSystem.csproj" />
+</Solution>
